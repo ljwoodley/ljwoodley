@@ -16,7 +16,6 @@ I'm Laurence, originally from Trinidad 🇹🇹 but currently living in Florida.
 
 - 📫 Feel free to reach out on [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurencejwoodley) for collaborations or a friendly chat (Wi-Fi isn't the only connection I'm interested in 😀).
 
-<br>
 
 ### 🔧 Tools & Languages
 
