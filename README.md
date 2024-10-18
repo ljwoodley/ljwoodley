@@ -1,7 +1,5 @@
-<h1 align="center"> Welcome! <img src="wave.gif" width="30px"> </h1>
-
 <p align="center">
-<img src = "header_image.jpg" width="300">
+<img src = "header_image.gif">
 </p>
 
 <br>
