@@ -4,8 +4,6 @@
 
 <br>
 
-I'm Laurence, originally from Trinidad 🇹🇹 but currently living in Florida. 
-
 - 💻 I'm interested in Data Engineering, DevOps and the ever-evolving world of the Cloud.
 
 - 🚀 As I navigate through the complexities of data and cloud technologies, I'm constantly learning, experimenting and growing. Whether it's building data pipelines, automating workflows, or deploying cloud solutions, I'm always up for a challenge.
