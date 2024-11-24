@@ -8,8 +8,6 @@
 
 - 🚀 As I navigate through the complexities of data and cloud technologies, I'm constantly learning, experimenting and growing. Whether it's building data pipelines, automating workflows, or deploying cloud solutions, I'm always up for a challenge.
 
-- 🌟 On this platform, you'll find a blend of my projects, collaborations, and continuous learning experiences. I'm thrilled to share my journey with you and equally excited to learn from the community.
-
 - 📫 Feel free to reach out on [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurencejwoodley) for collaborations or a friendly chat (Wi-Fi isn't the only connection I'm interested in 😀).
 
 
